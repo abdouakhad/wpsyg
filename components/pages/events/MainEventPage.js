@@ -62,11 +62,11 @@ function MainEventPage({}) {
           </div>
           <p className="my-4">
             In addition to our conference in Somone, we are also hosting a
-            one-day event in Senegal on April. This event will feature talks and
-            networking opportunities with local women in science. The
-            registration fee for this event is usually 10,000 XOF. Don{`'`}t
-            miss out on this amazing opportunity to connect with other women in
-            science and learn from some of the best in the field. Register now!
+            one-day event in Senegal on February. This event will feature talks
+            and networking opportunities with local women in science. The
+            registration fee for this event will be anounced. Don{`'`}t miss out
+            on this amazing opportunity to connect with other women in science
+            and learn from some of the best in the field. Register now!
           </p>
         </div>
         <Link href="/contact">
