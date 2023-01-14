@@ -1,0 +1,74 @@
+{
+  "gallery": [
+    {
+      "id": "01",
+      "name": "Dakar",
+      "src": "/gallery/img1.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2018-01-12"
+    },
+    {
+      "id": "02",
+      "name": "Thies",
+      "src": "/gallery/img2.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2018-01-27"
+    },
+    {
+      "id": "03",
+      "name": "Mbour",
+      "src": "/gallery/img1.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2019-02-15"
+    },
+    {
+      "id": "04",
+      "name": "Saint-Louis",
+      "src": "/gallery/img4.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2018-01-01"
+    },
+    {
+      "id": "05",
+      "name": "Dakar",
+      "src": "/gallery/img5.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2018-01-01"
+    },
+    {
+      "id": "06",
+      "name": "Fatick",
+      "src": "/gallery/img6.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2018-01-01"
+    },
+    {
+      "id": "07",
+      "name": "Dakar",
+      "src": "/gallery/img7.jpg",
+      "date": "2018-08-03",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+    },
+    {
+      "id": "",
+      "name": "Plateau",
+      "src": "/gallery/img8.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2019-03-01"
+    },
+    {
+      "id": "",
+      "name": "Almady",
+      "src": "/gallery/img9.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "202--03-05"
+    },
+    {
+      "id": "",
+      "name": "Thies",
+      "src": "/gallery/img10.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
+      "date": "2018-09-11"
+    }
+  ]
+}
